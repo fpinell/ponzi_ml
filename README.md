@@ -8,7 +8,8 @@
            
            + plot_features is used to generates the plots with features distributions
            
-           + paper_experiments.ipynb contains the code to perform the classification experiments described in the paper
+           + paper_experiments.ipynb contains the code to perform the classification experiments described in the paper, and it saves the best classifier as pickle
            
-           + best_classifier_shap_v2.ipynb contains the code to perform the shap anlysis and generate the relative figures
+           + best_classifier_shap_v2.ipynb contains the code to perform the shap anlysis and generate the relative figures taking in input the best classifier obtained through the previous notebook
+
 

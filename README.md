@@ -1,4 +1,4 @@
-# Sharpening Ponzi schemes detection on Ethereum with Machine Learning
+# Explainable Ponzi Schemes Detection on Ethereum
 
 - Bytecodes: containes the bytecodes of some of the smart contracts used in our analysis. 
 - Dataset: containes the files to carry on the analysis. Dataset.csv contains the features and targets.csv the relative labels
